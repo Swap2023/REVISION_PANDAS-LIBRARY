@@ -29,7 +29,7 @@ Q. 13) Show all the Records where Weather Condition is Fog.
 
 Q. 14) Find all instances when 'Weather is Clear' or 'Visibility is above 40'. 
 
-Q. 15) Find all instances when: A. 'Weather is Clear' and 'Relative Humidity is greater than 50' or B. 'Visibility is above 40'
+Q. 15) Find all instances when: A. 'Weather is Clear' and 'Relative Humidity is greater than 50' or B. 'Visibility is above 40'.
 
 
 
