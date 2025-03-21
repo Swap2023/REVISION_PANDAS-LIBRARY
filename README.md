@@ -210,6 +210,6 @@ they were fully satisfied, then our answer for that day would be 0.3.
 
 12 - Create a dataframe by performing a group by over age_group and finding the count of total samples for each age_group that opted for the JD(U) party in Vote_Now. 
 
-13 - Join/Merge the two dataframes from questions 12 and 11 with the common column as age_group.
+13 - Join/Merge the two dataframes from questions 12 and 11 with the common column as age_group..
 
 
